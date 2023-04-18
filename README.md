@@ -1,2 +1,2 @@
 # CloneXY
-This Repository contains clone of Amazon.
+This Repository contains detailed clone of Amazon.
